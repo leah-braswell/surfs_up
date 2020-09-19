@@ -4,7 +4,7 @@
 I am seeking investors for a surf shop that also serves ice cream.  The proposed location is on the Hawaiian island of Oahu.  I have access to weather data including temperature and precipitation.  In order to determine if my business will be sustainable year round, my investors have asked for an indepth weather analysis of the area.  Specifically one investor would like to see a statistical breakdown of temperatures in June and December.
 
 ## Results
-* The temperature measurements for [December](dec_temps.png) are fairly mild:
+* The temperature measurements for [December](dec_temps.PNG) are fairly mild:
     * avg. 71 F
     * min. 56 F
     * max. 83 F
