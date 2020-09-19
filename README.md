@@ -8,7 +8,7 @@ I am seeking investors for a surf shop that also serves ice cream.  The proposed
     * avg. 71 F
     * min. 56 F
     * max. 83 F
-* The temperature measurements for [June](june_temps.png) are only slightly warmer than December:
+* The temperature measurements for [June](june_temps.PNG) are only slightly warmer than December:
     * avg. 75 F
     * min. 64 F
     * max. 86 F
@@ -18,7 +18,7 @@ I am seeking investors for a surf shop that also serves ice cream.  The proposed
 ## Summary
 The temperature measurements differ only slighlty between June and December.  This aspect of the weather reflects that the surfing aspect of the business is viable year round.  Although the temperature drops somewhat in December, there are still a considerable number of days that reach temperatures over 70 degrees Farenheit.  After working up a sweat surfing, the weather is still perfect for ice cream!  
 
-Another factor to consider is precipitation.  The precipitation levels in [June](june_prcp.png) and [December](dec_prcp.png) are very similar as well.  There is, on average, less than .25 inches of rain on any given day.  The primary investor requested data from one specific weather station, the station with the greatest number of measurements.  After pulling statistics from just this station for [June](june_meas.png) and [December](dec_meas.png), the trends ring true.  Mild temperatures paired with little precipitation create an excellent environment for both surfing and, on most days, ice cream!
+Another factor to consider is precipitation.  The precipitation levels in [June](june_prcp.PNG) and [December](dec_prcp.PNG) are very similar as well.  There is, on average, less than .25 inches of rain on any given day.  The primary investor requested data from one specific weather station, the station with the greatest number of measurements.  After pulling statistics from just this station for [June](june_meas.PNG) and [December](dec_meas.PNG), the trends ring true.  Mild temperatures paired with little precipitation create an excellent environment for both surfing and, on most days, ice cream!
 
 
 
